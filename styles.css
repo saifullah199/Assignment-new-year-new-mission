@@ -1,5 +1,33 @@
 *{
     margin: 0;
     padding:0;
+    font-family: 'Lato', sans-serif;
+}
 
+/* header styles */
+.nav-parent{
+    border-radius: 16px;
+    background-image: url('../Assignment-new-year-new-mission/images/Banner\ Image.png'); 
+}
+.nav-child {
+    
+    color: #FFFFFF;
+    width: 50%;
+    margin: 0 auto;
+    padding: 200px;
+    
+}
+.nav-child h4{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 30px;
+    text-align: center;
+}
+.nav-child h1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 80px;
+    text-align: center;
 }
