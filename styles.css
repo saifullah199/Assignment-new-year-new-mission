@@ -31,3 +31,45 @@
     font-size: 80px;
     text-align: center;
 }
+.container-child{
+    
+    width: 70%;
+    margin: 100px auto;
+    
+}
+
+    
+
+.container-child h2, h3, h4{
+    text-align: center;
+    
+}
+.container-child h2 {
+    color: #F00;
+    font-size: 88px;
+    font-weight: 700;
+    font-family: Inter;
+}
+.container-child h4 {
+    color: #F00;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    margin-top: 30px;
+    margin-bottom: 15px;
+
+} 
+.container-child h3{
+    color: #070211;
+    font-weight: 700;
+    font-size: 48px;
+    font-family: Inter;
+    margin-bottom: 30px;
+
+
+} 
+
+    
+    
+    
+    
