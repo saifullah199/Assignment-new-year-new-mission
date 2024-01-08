@@ -68,6 +68,34 @@
 
 
 } 
+.main-section{
+ background-repeat: no-repeat;
+    background-image: url('../Assignment-new-year-new-mission/images/Vectorrr.png');
+}
+.main-section-container{
+display: flex;
+width: 80%;
+margin: 0 auto;
+padding: 50px 0;
+}
+.main-section-child{
+    color: #FFF;
+    
+}
+.main-section-child h2{
+    
+    letter-spacing: 7px;
+    font-family: Merriweather;
+    font-size: 64px;
+    line-height: 88px;
+    font-weight: 900;
+
+
+}
+.main-section-child2 img {
+    
+    
+}
 
     
     
