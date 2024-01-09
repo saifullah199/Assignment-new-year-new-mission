@@ -2,12 +2,15 @@
     margin: 0;
     padding:0;
     font-family: 'Lato', sans-serif;
+    
 }
 
 /* header styles */
+
 .nav-parent{
     border-radius: 16px;
     background-image: url('../Assignment-new-year-new-mission/images/Banner\ Image.png'); 
+    
 }
 .nav-child {
     
@@ -30,6 +33,7 @@
     justify-content: center;
     font-size: 80px;
     text-align: center;
+    font-family: Merriweather;
 }
 .container-child{
     
@@ -83,8 +87,19 @@ padding: 50px 0;
     color: #FFF;
     
 }
+.main-section-child h2{
+    width: 70%;
+    
+}
 .main-section-child p {
-    margin: 15px 0;
+    width: 70%;
+    
+}
+.main-section-child button {
+    color: orange;
+    padding: 10px;
+    border-radius: 5px;
+    margin-top: 15px;
     
 }
 .main-section-child h2{
@@ -246,17 +261,19 @@ text-transform: capitalize;
     margin: 30px 0;
 }
 
-.subscribe input{
-    border-radius: 50px;
-    background: #FFF;
-    
-    
+.subcribe textarea {
+    margin-top: 5px;
 }
+    
+    
+
    .btn-subscribe{
     border-radius: 0px 50px 50px 0px;
     background: #F00;
     gap: 0;
     padding: 10px;
+    border: 0;
+    margin-left: -4px;
    } 
    .footer-container{
     padding: 50px;
